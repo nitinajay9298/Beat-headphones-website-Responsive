@@ -4,8 +4,4 @@ Responsive Dark theme Headphones website using CSS & Javascript.. You can find m
 
 
 
-## Demo
-
-Restaurant website demo: https://tawhidkomol.github.io/Headphone-website-css-javascript/index.html
-
 
